@@ -1,4 +1,4 @@
-## Resumen
+# Formatos de celda y autorrelleno en Excel
 Trabajar de manera ágil en Excel requiere dominar los diferentes formatos de celda y aprovechar herramientas prácticas como el autorrelleno y los atajos del teclado. Entender estos conceptos hace que la gestión y análisis de datos sea mucho más efectiva y te ayuda a evitar errores comunes al trabajar con hojas de cálculo.
 
 ## ¿Qué tipos de dato se pueden tener en Excel y cómo identificarlos?

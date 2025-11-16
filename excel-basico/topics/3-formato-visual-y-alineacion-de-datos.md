@@ -1,4 +1,4 @@
-## Resumen
+# Formato visual y alineación de datos en Excel
 Aplicar un formato visual atractivo y profesional en Excel puede facilitar la consulta, interpretación y presentación de información. Aprender estos pasos te permitirá optimizar tiempo y entregar archivos más claros y organizados.
 
 ## ¿Cómo seleccionar y resaltar cabeceras usando atajos de Excel?
