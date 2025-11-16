@@ -1,3 +1,5 @@
+# Interfaz básica de Excel: elementos y navegación esencial
+
 ## ¿Qué encuentras al abrir Excel y para qué sirven las plantillas?
 Al iniciar Excel, verás la sección de Recientes donde se mostrarán los archivos que has abierto antes. Arriba aparecen plantillas prediseñadas que puedes usar para romper la hoja en blanco y tener ideas de cómo organizar tu información. Si lo prefieres, siempre puedes arrancar con un libro en blanco.
 
